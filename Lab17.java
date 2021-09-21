@@ -43,3 +43,20 @@ class Lab17 implements Attandance
   e1.Attand(60);
  }
 }
+
+OUTPUT:
+Z:\mca16.java>javac Lab17.java
+
+Z:\mca16.java>java Lab17
+rool no :84
+student name :vasu
+student age :23
+student cource :mca
+attandance is :80
+he is eligible for exams
+rool no :1
+student name :teja
+student age :21
+student cource :mca
+attandance is :60
+he is not eligible for exams
